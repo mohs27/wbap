@@ -89,61 +89,8 @@ You can help by translating the project to a language you speak at https://hoste
 
 -   Cloudflare Pages - [cf.piped.video](https://cf.piped.video/)
 -   Vercel - [vc.piped.video](https://vc.piped.video/)
--   Render - [re.piped.video](https://re.piped.video/)
--   Fleek - [fl.piped.video](https://fl.piped.video/)
--   DigitalOcean - [do.piped.video](https://do.piped.video/)
--   Netlify - [nf.piped.video](https://nf.piped.video/)
--   Azure - [az.piped.video](https://az.piped.video/)
-
-### Forking, and contributing
-
--   Fork the repository on GitHub: https://github.com/TeamPiped/Piped/fork
--   Create your feature branch: `git checkout -b my-awesome-feature`
--   Stage your files `git add .`
--   Commit your changes `git commit -am 'Add awesome new feature'`
--   Push to the branch `git push origin my-awesome-feature`
--   Create a new pull request: https://github.com/TeamPiped/Piped/compare
-
-### Development Setup
-
-```
-pnpm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-pnpm dev
-```
-
-You can now make changes and view then in realtime!
-
-## Contact
-
-If you would like to contact me personally, you may do so with the following means:
-
--   Matrix: @kavin1337:matrix.org
--   Mastodon: https://mastodon.online/@kavin
--   Email: kavin@kavin.rocks
-
-Please note that isn't meant for support, see [Public Chat Rooms/Communities](#public-chat-roomscommunities) for that.
-
-## Donations
-
-Donations can be made at:
-
--   bc1qhq8zjxmu405nvp37njj6zv3s980zg400pu9jfe (BTC)
--   0x1D77D4cfB1a947514241bcf19B1F04738495e2fD (ETH)
--   84wyyeGTrg4U1daJufi78bAFrBQgdRhmxJZvgYv8dAFeFVwkJaBEmw5C7fNniUM9n4jfrz3NeG32Agxtp7JNAcCUFPACfwA (XMR, aka Monero)
--   nano_1ngejzydncche4rdua3iebhj7sa95pw5geq4pb8phugtjf3tku933ktjb4pq (Nano)
--   XpzgouDTKCUuE8a92XqjX9b43gKL8oLihw (Dash)
-
-FIAT donations can be made at:
-
-- https://liberapay.com/kavin (Author of project, used for Project infrastructure maintenance, and official instance)
-- https://liberapay.com/Bnyro (Maintainer of repo)
-
-Contributions in any other form are also welcomed.
+-   Render - [re.piped.video]
+-   
 
 # Made with Piped
 
